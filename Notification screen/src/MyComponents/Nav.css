@@ -1,0 +1,15 @@
+.mainhead {
+  text-align: left;
+  font-weight: bold;
+}
+.Strong {
+  font-weight: bold;
+}
+.nav-pills {
+  --bs-nav-pills-border-radius: 0.375rem;
+  --bs-nav-pills-link-active-color: #141619;
+  --bs-nav-pills-link-active-bg: #f1f1f1;
+}
+.nav-link {
+  color: black;
+}
